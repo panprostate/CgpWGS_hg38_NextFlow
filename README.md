@@ -3,7 +3,7 @@
 This repository contains a Nextflow implementation of the [CgpWGS_hg38 pipeline](https://github.com/panprostate/CgpWGS_hg38/tree/master).
 
 ## **Requirements**
-All tools used in this pipeline are contained in the [CgpWGS_hg38 container](https://github.com/cancerit/dockstore-cgpwgs) container. It can be excuted via Singularity or Docker.
+All tools used in this pipeline are contained in the [CgpWGS_hg38 container](https://github.com/cancerit/dockstore-cgpwgs). It can be excuted via Singularity or Docker.
 
 
 - Nextflow >= 23.04 (tested version - This script makes use of DSL 2 synthax, which became the default at 22.03.0-edge)
